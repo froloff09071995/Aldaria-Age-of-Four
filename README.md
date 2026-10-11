@@ -48,3 +48,17 @@
 - [Образовательная система четырёх рас](lore/education.md)
 - [Тайные сообщества Альдарии](lore/secret-societies.md)
 - [Два года в международной школе](story/02-school-years.md)
+
+## Подробный визуальный сценарий
+
+Первая согласованная арка — **«День четырёх народов»**: шесть глав, сцены, действия и предварительные диалоги.
+
+- [Оглавление арки и открытые вопросы](story/arcs/01-day-of-four-nations/README.md)
+- [Глава 1. День поступления](story/arcs/01-day-of-four-nations/01-admission.md)
+- [Глава 2. Королевская семья](story/arcs/01-day-of-four-nations/02-royal-family.md)
+- [Глава 3. Деревянный меч](story/arcs/01-day-of-four-nations/03-wooden-sword.md)
+- [Глава 4. Собрание Четырёх](story/arcs/01-day-of-four-nations/04-council-of-four.md)
+- [Глава 5. Шумные соседи](story/arcs/01-day-of-four-nations/05-noisy-neighbors.md)
+- [Глава 6. Новый сосед](story/arcs/01-day-of-four-nations/06-new-roommate.md)
+
+Оригинальные материалы в `story/` сохраняются как сводная хронология; сценарии в `story/arcs/` разворачивают её подробно. Имя главного героя и другие открытые детали не заполнены произвольно.
